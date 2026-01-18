@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f26d50b-da3a-4689-9106-b4fcf8a5907a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/CategorizedTextProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassificatorText.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test images/встреча.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test images/дом.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test images/квартира.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test images/работа.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test images/центр.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test images/центр2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test images/центр3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test images/школа.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/privet/character_в_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/privet/character_в_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/privet/character_в_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/privet/character_в_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/privet/character_е_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/privet/character_и_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/privet/character_п_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/privet/character_р_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/privet/character_т_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/momul_classification_text/classification_text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/momul_classification_text/tests/openvc_first_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/momul_classification_text/tests/test_quick.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/17 Decamber - OpenCV - floodfill.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/17.12_PIL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/old/version 0/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/old/version 0/Main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/old/version 0/twoLearn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/opencv/15_01_2026_#6_attempt_categorized_1_char.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/opencv/15_01_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/opencv/15_01_26_№2_stage_processed_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/opencv/16_01_2026_#5_crop_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/opencv/16_01_26_#2_study_6_characters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/opencv/16_01_26_#3_load_text_privet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/opencv/16_01_26_#4_find_begin_point.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/opencv/16_01_26_categorired_one_character.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/opencv/17_01_2026_#2_many_crop_for_fit_#2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/opencv/17_01_26_#1_many_crop_for_fit.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="36mFzJcIbWmVaU5bpvFC1KiySH2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests in test_quick.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15_01_2026_#6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15_01_26.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15_01_26_№2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15_01_26_№2_stage_processed_image.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16_01_2026_#5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16_01_26.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16_01_26_#1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16_01_26_#2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16_01_26_#3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16_01_26_#3_load_text_privet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16_01_26_#4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16_01_26_#4_find_begin_point.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16_01_26_categorired_one_character.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17 Decamber - OpenCV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17.12_PIL.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17_01_2026_#2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ClassificatorText.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Main2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.twoLearn.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/ikazarbekov/Документы/projects/CategorizedTextProject/data/processed/privet&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/processed/privet" />
+      <recent name="$PROJECT_DIR$/scripts/opencv" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/images/test images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/processed/privet" />
+      <recent name="$PROJECT_DIR$/scripts" />
+      <recent name="$PROJECT_DIR$/old/version 0" />
+      <recent name="$PROJECT_DIR$/Tests" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-f69e5c277ee4-cbfc7b97e6b2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.27397.106" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f26d50b-da3a-4689-9106-b4fcf8a5907a" name="Changes" comment="" />
+      <created>1765604101086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765604101086</updated>
+    </task>
+    <servers />
+  </component>
+</project>
