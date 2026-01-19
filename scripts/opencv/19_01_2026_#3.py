@@ -107,7 +107,7 @@ for path in paths_value:
     weight_pnn.append(paths_value[path][1])
 
 #ppn = SGDClassifier(loss="perceptron")
-ppn = Perceptron(random_state=1, eta0=10, max_iter=9999)
+ppn = Perceptron(eta0=0.001)
 all_images_pnn = list()
 all_values_pnn = list()
 # crop from 100% to 20% image and fit
@@ -238,6 +238,7 @@ def crop_image(im, x, y, size):
     #pil_im = pil_im.crop((x, y, x + size, y + size))
     return im[y:y+size, x:x+size]
 
+answers = list()
 for i in range(50, 150, 10):
     crop = crop_image(pim, x, y, i)
 
@@ -245,13 +246,12 @@ for i in range(50, 150, 10):
     #im_resize = cv2.GaussianBlur(im_resize, (101, 101), 5 - i // 50)
     im_ppn = processed_image_for_pnn(im_resize)
 
-    answer = ppn.predict([im_ppn])
-    des = ppn.decision_function([im_ppn])
+    answer = ppn.predict([im_ppn])[0][0]
+    answers.append(answer)
     print("asnwer perseptron" , answer)
     show("im_ppn", im_resize, ms=0)
-    #answer = lrg.predict([im_ppn])
-    #decition =max( lrg.decision_function([im_ppn])[0])
-    #print("asnwer logistic regression" ,answer, decition)
+#end_answer = max(set(answers), answers.count)
+#print("End answer: ", end_answer)
 
 coefs = ppn.coef_
 print("======= MODEL ========")
@@ -263,3 +263,4 @@ for coef in coefs:
     im = coef.reshape((200, 200))
     print(im)
     show("res", im, ms=0)
+    pass
